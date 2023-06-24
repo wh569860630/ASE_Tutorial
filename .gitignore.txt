@@ -1,0 +1,10 @@
+*.csproj
+*.sln
+*.vs
+.vscode
+Library
+ResTemp
+Temp
+obj
+raid.code-workspace
+raid.userprefs
